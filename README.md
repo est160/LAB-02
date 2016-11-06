@@ -89,7 +89,7 @@
 3. กดปุ่ม F5 เพื่อดูผลการทำงานของโปรแกรม
 4. บันทึกผล
 
-  ผลการทดลอง 
+  ผลการทดลอง ![](https://github.com/est160/LAB-02/blob/master/imgs/lab2.1.png?raw=true)
 
 **รายละเอียดของ [Main Window Class](http://www.functionx.com/win32/Lesson01b.htm)**
 
